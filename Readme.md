@@ -5,7 +5,7 @@ Animated dots background using HTML5 Canvas with dynamic connections between nea
 A simple animated particle background built using HTML5 Canvas and vanilla JavaScript.  
 Dots move smoothly across the screen and dynamically connect with nearby dots to create a network-style visual effect.
 
-![Dot_Line Screenshot](./Screenshot.png)
+![Dot_Line Screenshot](./img.png)
 ## Features
 
 - Smooth particle animation
